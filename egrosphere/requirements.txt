@@ -1,0 +1,11 @@
+Django>=4.2
+djangorestframework>=3.14
+django-cors-headers>=3.14
+chromadb>=0.4.0
+sentence-transformers>=2.2.2
+openai>=1.0.0
+requests>=2.31
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+pymysql>=1.1
+selenium>=4.13
